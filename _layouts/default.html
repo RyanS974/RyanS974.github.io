@@ -4,33 +4,16 @@
     <meta charset="utf-8">
     <title>{{ site.title }}</title>
     <style>
-        .container { 
-            display: flex; 
-            border: 2px solid red; /* Test border */
-        }
-        .nav { 
-            width: 200px; 
-            padding: 20px; 
-            background: #f5f5f5;
-            border: 2px solid blue; /* Test border */
-        }
-        .content { 
-            flex: 1; 
-            padding: 20px;
-            border: 2px solid green; /* Test border */
-        }
-        .nav a { 
-            display: block; 
-            padding: 5px 0; 
-            color: #333;  /* Make links visible */
-            text-decoration: underline;
-        }
+        .container { display: flex; }
+        .nav { width: 200px; padding: 20px; background: #f5f5f5; }
+        .content { flex: 1; padding: 20px; }
+        .nav a { display: block; padding: 5px 0; }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="nav">
-            <h2 style="color: red;">Navigation</h2>  <!-- Test color -->
+            <h2>Navigation</h2>
             <a href="{{ site.baseurl }}/">Home</a>
             <a href="{{ site.baseurl }}/pages/test_page">test page</a>
             <a href="{{ site.baseurl }}/about">About</a>
