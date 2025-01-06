@@ -1,3 +1,2 @@
 # RyanS974.github.io
-Home Page
-
+This is my GitHub home page.  Access it at http://ryans974.github.io
