@@ -12,10 +12,18 @@
     text-align: center;
 }
 
+
 /* Default (light) theme styles here */
+/*
 body {
   background: #fff;
   color: #222;
+}
+*/
+
+body {
+    background: #181818;
+    color: #eee;
 }
 
 /* Dark mode styles */
