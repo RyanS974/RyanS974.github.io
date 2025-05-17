@@ -11,3 +11,21 @@
     font-weight: bold;
     text-align: center;
 }
+
+/* Default (light) theme styles here */
+body {
+  background: #fff;
+  color: #222;
+}
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #181818;
+    color: #eee;
+  }
+  .container {
+    background: #222;
+  }
+  /* Add more overrides as needed */
+}
