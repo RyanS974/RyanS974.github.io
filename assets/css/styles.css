@@ -1,0 +1,13 @@
+.container { display: flex; }
+.nav { width: 200px; padding: 20px; background: #f5f5f5; }
+.content { flex: 1; padding: 20px; }
+.nav a { display: block; padding: 5px 0; }
+.nav-heading1 {
+    background: #b6fcb6;
+    color: #000;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+}
