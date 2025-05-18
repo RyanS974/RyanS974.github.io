@@ -1,3 +1,3 @@
 # RyanS974.github.io
-UNDER CONSTRUCTION
-This is my GitHub home page.  Access it at http://ryans974.github.io.  There isn't anything there though yet except a bare template site.
+
+This is my GitHub home page.  Access it at http://ryans974.github.io.  I just started working on it, and it has some basic features, as of 2025-05-17.  I plan on having a blog of updates and information on the page and what I am working on.  Some of the topics are tutorials on programming, AI, and apps I am working on.  I plan on setting up Discussions soon, accessible from the top menu of this GitHub repo page.
