@@ -5,9 +5,9 @@ title: QChat Manual
 
 # Manual Table of Contents
 
-- [Introduction]({{ site.baseurl }}/manual/intro)
-- [Installation]({{ site.baseurl }}/manual/install)
-- [Usage]({{ site.baseurl }}/manual/usage)
+- [Introduction]({{ site.baseurl }}/qc-manual/intro)
+- [Installation]({{ site.baseurl }}/qc-manual/install)
+- [Usage]({{ site.baseurl }}/qc-manual/usage)
 - [Basic-Chats]({{ site.baseurl }}/manual/basic-chats)
 - [Chat-Organizational-Methods]({{ site.baseurl }}/manual/org-methods)
     - [Keywords]({{ site.baseurl }}/manual/keywords)
