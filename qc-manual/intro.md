@@ -5,6 +5,6 @@ title: Introduction
 
 # Introduction
 
-[Back to Manual]({{ site.baseurl }}/manual)
+[Back to Manual]({{ site.baseurl }}/qc-manual)
 
 test
