@@ -1,3 +1,5 @@
 # RyanS974.github.io
 
-This is my GitHub home page.  Access it at http://ryans974.github.io.  I just started working on it, and it has some basic features, as of 2025-05-17.  I plan on having a blog of updates and information on the page and what I am working on.  Some of the topics are tutorials on programming, AI, and apps I am working on.  I plan on setting up Discussions soon, accessible from the top menu of this GitHub repo page.
+This is my GitHub home page, accessible here ( http://ryans974.github.io ).  I am a student in my final semester of grad school.  My degree is in Artificial Intelligence, with a concentration in AI & Software Engineering.  Interestingly, my degree has the same courses of the Software Engineering degree which has a concentration in AI.  They are in the same department of the school, and have identical undergrad and prerequisite requirements also.  It is really a matter of what was wanted on the degree, as I could have signed up or switched to that degree program.
+
+My undergraduate degree is in business with a concentration in accounting.
