@@ -16,8 +16,8 @@ body {
 .nav {
     width: 200px;
     padding: 5px;
-    background: #fff;
-    color: #000;
+    background: #000;
+    color: #fff;
     font-size: 18px;
 }
 .content {
