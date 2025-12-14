@@ -5,7 +5,7 @@ title: Home
 
 # RyanS974.github.io
 
-Home Page
+Home Page of <a href="http://github.com/ryans974">RyanS974</a> containing mainly articles on AI, Python, and School, and various blog posts on site updates or other topics.
 
 ## Recent Blog Posts
 
