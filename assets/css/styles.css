@@ -1,65 +1,115 @@
+/* =============================================================================
+ * GLOBAL/BASE STYLES - Affects the entire page
+ * ============================================================================= */
+
+/* Sets the root font size for the entire document */
 html {
     font-size: 18px;
 }
 
+/* Applies to the entire document body - currently affects the overall page background */
 body {
-    background-color: #000;
-    color: #fff;
+    background-color: #000;  /* Black background for the entire page */
+    color: #fff;            /* White text color for the entire page */
     margin: 0;
-    padding: 0;
+    padding: 5px;           /* Inner spacing around the whole page */
     font-size: 18px;
 }
+
+
+/* =============================================================================
+ * LAYOUT STYLES - Controls the overall page structure
+ * ============================================================================= */
+
+/* Container that holds both the navigation sidebar and main content */
 .container {
-    display: flex;
-    min-height: 100vh;
+    display: flex;          /* Creates a flexible layout */
+    min-height: 100vh;      /* Minimum height of the full viewport */
 }
+
+
+/* =============================================================================
+ * NAVIGATION SIDEBAR STYLES - Affects the left sidebar area
+ * ============================================================================= */
+
+/* Main navigation sidebar container (the left column) */
 .nav {
-    width: 250px;
-    padding: 5px;
-    background: #000;
-    color: #fff; 
-    font-size: 18px;
+    width: 250px;           /* Width of the navigation area on the left */
+    padding: 5px;           /* Inner spacing inside the navigation area */
+    background: #000;       /* Black background for the navigation area */
+    color: #fff;            /* White text color in the navigation area */
+    font-size: 18px;        /* Font size in the navigation area */
 }
-.content {
-    flex: 1;
-    padding: 5px;
-    background: #fff;
-    color: #000;
-    font-size: 18px;
-}
+
+/* Navigation links within the sidebar */
 .nav a {
-    display: block;
-    padding: 5px 0;
-    color: #339933;
+    display: block;         /* Makes links occupy the full width */
+    padding: 5px 0;         /* Vertical spacing around navigation links */
+    color: #339933;         /* Green color for links in the navigation area */
 }
+
+/* Unvisited navigation links in the sidebar */
 .nav a:link {
-    color: #339933;
+    color: #339933;         /* Ensures unvisited links are green */
 }
+
+/* Visited navigation links in the sidebar */
 .nav a:visited {
-    color: #339933;
+    color: #339933;         /* Keeps visited links green too */
 }
+
+/* Navigation category headings (e.g., "School", "QChat", "AI") */
+.nav-heading1 {
+    background: #004400;    /* Dark green background for category headings */
+    color: #00ff00;         /* Bright green text color for category headings */
+    padding: 5px;           /* Inner spacing within category headings */
+    margin-bottom: 5px;     /* Bottom margin below each category heading */
+    border-radius: 3px;     /* Rounded corners on category headings */
+    font-weight: bold;      /* Bold text for category headings */
+    text-align: center;     /* Centered text within category headings */
+    font-size: 18px;        /* Font size for category headings */
+}
+
+
+/* =============================================================================
+ * MAIN CONTENT AREA STYLES - Affects the right side content area
+ * ============================================================================= */
+
+/* Main content area (the right column) */
+.content {
+    flex: 1;                /* Takes up remaining space after navigation */
+    padding: 5px;           /* Inner spacing inside the main content area */
+    background: #fff;       /* White background for the main content area */
+    color: #000;            /* Black text color in the main content area */
+    font-size: 18px;        /* Font size in the main content area */
+}
+
+
+/* =============================================================================
+ * LINK STYLES - Affects links throughout the site
+ * ============================================================================= */
+
+/* General links in the main content area */
 a {
-    color: #0000ff;
+    color: #0000ff;         /* Blue color for unvisited links in main content */
 }
+
+/* Visited links in the main content area */
 a:visited {
-    color: #800080;
+    color: #800080;         /* Purple color for visited links in main content */
 }
+
+
+/* =============================================================================
+ * COMMENTED OUT HOVER STATES - For future enhancement of navigation links
+ * ============================================================================= */
+
 /*
 .nav a:hover {
-    color: #ffff00;
-    text-decoration: underline;
+    color: #ffff00;         /* Yellow color when hovering over navigation links */
+    text-decoration: underline; /* Underline text when hovering */
 }
 .nav a:active {
-    color: #ffffff;
+    color: #ffffff;         /* White color when navigation link is clicked */
 }
 */
-.nav-heading1 {
-    background: #004400; /* dark green, #004400 */
-    color: #00ff00; /* bright green, #00ff00 */
-    padding: 5px;
-    margin-bottom: 5px;
-    border-radius: 3px;
-    font-weight: bold;
-    text-align: center;
-    font-size: 18px;
-}
