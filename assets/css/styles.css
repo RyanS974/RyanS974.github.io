@@ -16,7 +16,7 @@ body {
 .nav {
     width: 250px;
     padding: 5px;
-    background: #808080; /* gray */
+    background: #000; /* gray #808080 */
     color: #fff; 
     font-size: 18px;
 }
