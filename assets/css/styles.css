@@ -106,10 +106,10 @@ a:visited {
 
 /*
 .nav a:hover {
-    color: #ffff00;         /* Yellow color when hovering over navigation links */
-    text-decoration: underline; /* Underline text when hovering */
+    color: #ffff00;
+    text-decoration: underline;
 }
 .nav a:active {
-    color: #ffffff;         /* White color when navigation link is clicked */
+    color: #ffffff;         
 }
 */
