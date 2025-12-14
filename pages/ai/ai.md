@@ -1,4 +1,4 @@
 <!-- ai.md -->
 # AI Overview
 
-<a href="www.google.com">Home</a>
+<a href=http://www.google.com>Home</a>
