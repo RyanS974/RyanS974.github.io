@@ -36,8 +36,8 @@ body {
 .nav {
     width: 250px;           /* Width of the navigation area on the left */
     padding: 5px;           /* Inner spacing inside the navigation area */
-    background: #000;       /* Black background for the navigation area */
-    color: #fff;            /* White text color in the navigation area */
+    background: #fff;    /* Gray background for the navigation area */
+    color: #000;            /* White text color in the navigation area */
     font-size: 18px;        /* Font size in the navigation area */
 }
 
