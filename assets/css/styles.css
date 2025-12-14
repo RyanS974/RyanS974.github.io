@@ -32,14 +32,12 @@ body {
     padding: 5px 0;
     color: #339933; /* #008000 is a medium green. */
 }
-/*
 .nav a:link {
-    color: #008000;
+    color: #339933;
 }
 .nav a:visited {
-    color: #008000;
+    color: #339933;
 }
-*/
 a {
     color: #0000ff;
 }
