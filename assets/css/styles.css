@@ -12,7 +12,7 @@ body {
     background-color: #000;  /* Black background for the entire page */
     color: #fff;            /* White text color for the entire page */
     margin: 0;
-    padding: 5px;           /* Inner spacing around the whole page */
+    padding: 10px;           /* Inner spacing around the whole page */
     font-size: 18px;
 }
 
