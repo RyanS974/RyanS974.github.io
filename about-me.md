@@ -5,7 +5,7 @@ title: About me
 
 # About me
 
-I am a Software Engineer with a Master's degree in AI with a concentration in AI & Software Engineering. Interestingly, my degree has the same courses of the Software Engineering degree which has a concentration in AI.  They are in the same department of the school, and have identical undergrad and prerequisite requirements also.  It is really a matter of what was wanted on the degree, as I could have signed up or switched to that degree program.
+I am a Software Engineer with a Master's degree in AI with a concentration in AI & Software Engineering. Interestingly, at my school (U of Michigan) my degree has the same courses of the Software Engineering degree with a concentration in AI.  They are in the same department of the school (College of Innovation and Technology), and have identical undergrad and prerequisite requirements also.  It is really a matter of what was wanted on the degree, as I could have signed up or switched to that degree program.
 
 - Master of Science in Artificial Intelligence with a concentration in AI & Software Engineering
 - Master of Science in Software Engineering with a concentration in Artificial Intelligence

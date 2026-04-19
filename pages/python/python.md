@@ -20,22 +20,3 @@ print("Hello, World!")
 ```
 
 Python is often recommended for beginners due to its gentle learning curve, while remaining powerful enough for industry-level applications.
-
-
-# Test 1
-test
-
-## Test 2
-test 2
-
-### Test 3
-test 3
-
-*one asterisk*
-**two asterisks**
-***three asterisks***
-****four asterisks****
-
-Table test
-
-header|header|header

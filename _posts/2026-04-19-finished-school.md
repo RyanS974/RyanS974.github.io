@@ -43,6 +43,6 @@ Back to the topic of AI, the main sub-topics I am planning on covering are some 
 - Machine Vision (and senses)
 - Robotics
 
-Let's briefly dissect those topics above and how they are related. A robot has senses to sense its environment, and it can communicate with humans with the help of NLP. The various topics of Machine Learning can also program the robot on how to act. A means to an end. Is there an accurate end of the learning of the robot? As in the machine learning is complete. That is a topic in itself. Along with the form of the robot itself.
+Let's briefly dissect those topics above and how they are related. A robot has senses to sense its environment, and it can communicate with humans with the help of NLP. The various topics of Machine Learning can also program the robot on how to act. A means to an end. Is there an accurate end of the learning of the robot? As in the machine learning is complete. That is a topic in itself.
 
 Why am I using GitHub Pages? It is free and I like the unique markdown based format. I have created websites in the past and have programmed with HTML, CSS and JavaScript a decent amount, but I like the GitHub Pages setup for what I am doing here.
