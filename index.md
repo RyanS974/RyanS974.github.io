@@ -10,5 +10,5 @@ Home Page of [RyanS974](http://github.com/RyanS974 "My main GitHub repo site") c
 ## Recent Blog Posts
 
 {% for post in site.posts limit:5 %}
-- [{{ post.title }}]({{ post.url }}) <small>{{ post.date | date: "%Y-%m-%d %H:%M" }}</small>
+- [{{ post.title }}]({{ post.url }}) <small>{{ post.date | date: "%Y-%m-%d" }}</small>
 {% endfor %}
