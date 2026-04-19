@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finished School"
-date: 2026-04-19
+date: 2026-04-19 14:00:00 -0500
 ---
 # Finished School
 Two days ago, the 17th, was the last day of classes for the semester. This was my fourth and last semester of my Master's degree in Artificial Intelligence with a concentration in Software Engineering. I won't technically know of my grade until the 29th, but I am certain I will pass. The degree is officially posted about three weeks after that, from my understanding.
